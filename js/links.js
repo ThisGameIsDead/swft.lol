@@ -1,5 +1,5 @@
 window.SWIFT_LINKS = {
-  discord: "https://discord.gg/MGkfwJkPg",
+  discord: "/discord",
   tiktok: "https://www.tiktok.com/@swift.mod",
   download: "https://github.com/ThisGameIsDead/swift/releases/latest/download/Swift.exe",
 };
