@@ -1,7 +1,7 @@
 window.SWIFT_LINKS = {
   discord: "https://discord.gg/MGkfwJkPg",
   tiktok: "https://www.tiktok.com/@swift.mod",
-  download: "https://discord.gg/MGkfwJkPg",
+  download: "https://github.com/ThisGameIsDead/swift/releases/latest/download/Swift.exe",
 };
 
 document.addEventListener("DOMContentLoaded", () => {
